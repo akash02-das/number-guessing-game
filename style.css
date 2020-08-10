@@ -32,6 +32,11 @@ p {
     background: #f4f4f4;
     border-radius: 5px;
     margin-top: 10px;
+    cursor: pointer;
+}
+
+.play-again:focus {
+    outline: 0;
 }
 
 .msg {
